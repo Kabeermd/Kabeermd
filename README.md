@@ -11,7 +11,7 @@
 - 🎓 BCA Graduate with focus on **AI & Data Science**  
 - 📊 Completed a **Data Science Internship** where I built ML & NLP models with measurable accuracy  
 - 🤖 Enthusiast in **Generative AI, AI Agents, and Agentic AI systems**  
-- 🌍 Preparing for my Master’s in **AI/Data Science** (2025)  
+- 🌍 Currently Pursuing Master’s in **AI/Data Science**  
 - 🛠️ Always exploring how to combine **traditional ML + modern AI frameworks** to create agent-driven solutions  
 
 ---
